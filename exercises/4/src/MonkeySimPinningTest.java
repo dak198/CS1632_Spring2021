@@ -15,7 +15,7 @@ public class MonkeySimPinningTest {
 	MonkeySim ms;
 	MonkeyWatcher mw;
 	List<Monkey> ml;
-	private ByteArrayOutputStrea out = new ByteArrayOutputStream();
+	private ByteArrayOutputStream out = new ByteArrayOutputStream();
 	private PrintStream stdout;
 
 	@Before
