@@ -138,11 +138,13 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 * Class 1: Guest Lecture from Penacity on Security Testing (11:05 ~ 12:20)
 
-* Class 2: Guest Lecture from Visimo on CI/CD Pipelines (11:05 ~ 12:20, 1:15 ~ 2:30)
+* Class 2: Guest Lecture from Visimo on CI/CD Pipelines Part 1 (11:05 ~ 12:20, 1:15 ~ 2:30)
 
 ## WEEK 14 (Week of 19 APR)
 
-* Class 1: Guest Lecture from CGI on Performance Testing (1:15 ~ 2:30)
+* Class 1:
+  * Guest Lecture from Visimo on CI/CD Pipelines Part 2 (11:05 ~ 12:20)
+  * Guest Lecture from CGI on Performance Testing (1:15 ~ 2:30)
 
 * Class 2: Midterm 2 review
 
