@@ -176,7 +176,8 @@ public class BeanCounterLogicTest {
 	/**
 	 * Test case for void repeat().
 	 * Preconditions: None.
-	 * Execution steps: Call logic.reset(beans).
+	 * Execution steps: If machine in skill mode, do the following:
+	 *                  Call logic.reset(beans).
 	 *                  Call logic.advanceStep() in a loop until it returns false (the machine terminates).
 	 *                  Call logic.repeat();
 	 *                  Call logic.advanceStep() in a loop until it returns false (the machine terminates).
