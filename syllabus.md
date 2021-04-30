@@ -138,12 +138,19 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 * Class 1: Guest Lecture from Penacity on Security Testing (11:05 ~ 12:20)
 
-* Class 2: Guest Lecture from Visimo on CI/CD Pipelines (11:05 ~ 12:20, 1:15 ~ 2:30)
+* Class 2: Guest Lecture from Visimo on CI/CD Pipelines Part 1 (11:05 ~ 12:20, 1:15 ~ 2:30)
 
 ## WEEK 14 (Week of 19 APR)
 
-* Class 1: Guest Lecture from CGI on Performance Testing (1:15 ~ 2:30)
+* Class 1:
+  * Guest Lecture from Visimo on CI/CD Pipelines Part 2 (11:05 ~ 12:20)
+  * Guest Lecture from CGI on Performance Testing (1:15 ~ 2:30)
 
 * Class 2: Midterm 2 review
 
-* Midterm 2 on GradeScope (TBD)
+* Midterm 2 on GradeScope: Thursday (Apr. 22) 10:00 AM - Saturday (Apr. 24) 11:59 PM
+  * Check out the **[study guide](/study_guides/midterm_2_study_guide.md)**!
+  * Will be posted as link named "Midterm 2" at Thursday 10:00 AM.
+  * You will choose a 3 hour span to complete exam within the above 3-day period.
+  * Your 3 hours begin the moment you click on link and agree to the terms on the next screen.
+  * Open book but individual work.
